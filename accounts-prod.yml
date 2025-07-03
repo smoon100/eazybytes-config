@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs "
+  contactDetails:
+    name: "John Doe - Product Owner"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (453) 555-1234
+    - (236) 523-1345

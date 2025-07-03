@@ -1,0 +1,11 @@
+build:
+  version: "1.2"
+
+Cards:
+  message: "Welcome to EazyBank Card QA Environment"
+  contactDetails:
+    name: "John Doe - Card QA Owner"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (453) 555-1234
+    - (236) 523-1345
